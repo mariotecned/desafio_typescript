@@ -1,0 +1,54 @@
+ * {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: sans-serif;
+    font-size: 14px;
+}
+
+body {
+    width: 100%;
+    background-color: rgb(243, 243, 243);
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+
+.group {
+    height: 200px;
+    width: 500px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+    background-color: #fff;
+    border: 1px solid lightgrey;
+    padding: 20px;
+}
+
+.botoes {
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+}
+
+button {
+    margin: 10px;
+    padding: 10px;
+}
+
+
+input[type=text], select {
+	width: 80%;
+	display: inline-block;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	box-sizing: border-box;
+	font-size: 12px;
+}
+
+
+
+
