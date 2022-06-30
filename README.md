@@ -1,5 +1,4 @@
-# desafio_typescript
-# Aula de Typescript da Take na plataforma DIO
+# Desafios da aula de Typescript da DIO
 
 ## Olá, seja bem-vindo!
 
